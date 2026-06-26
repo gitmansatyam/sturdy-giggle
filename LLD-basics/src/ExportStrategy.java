@@ -1,3 +1,3 @@
 public interface ExportStrategy {
-    void exportDocument();
+    void export(Document document);
 }
