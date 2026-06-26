@@ -1,3 +1,5 @@
+package day01_document_export;
+
 public class Main {
 
     public static void main(String[] args) {

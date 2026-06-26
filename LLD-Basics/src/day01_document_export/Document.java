@@ -1,3 +1,4 @@
+package day01_document_export;
 public class Document {
 
     private final String title;
